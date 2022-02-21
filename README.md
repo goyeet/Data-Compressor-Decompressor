@@ -1,4 +1,6 @@
-# Assignment 5 - Huffman Coding
+# Lossless Data Compressor and Decompressor
+
+NOTE: This program is adapted from a Computer Systems and C Programming assignment.
 
 This C program contains code for a Huffman encoder and decoder. The encoder and decoder read from
 stdin and output to stdout unless specified to read/output using specific files.
@@ -49,7 +51,3 @@ Remove all files that are compiler generated with:
 ```
 make clean
 ```
-
-## Known Issues
-
-None
